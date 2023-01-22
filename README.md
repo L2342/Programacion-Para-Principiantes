@@ -34,14 +34,6 @@ Node Js es un entorno multiplataforma de ejecucción de JavaScript que nos va a 
 #####  Aqui te lo dejo:
 - [Seti Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)
 
-Cada enlace en la tabla de contenido se refiere a un ancla con el mismo nombre en el título correspondiente.
-
-Es importante tener en cuenta que esto es una forma básica de crear una tabla de contenido en Markdown y puede variar dependiendo del generador de documentos o plataforma que se esté utilizando.
-
-
-
-
-
 
 ## Contribuir
 
