@@ -6,3 +6,9 @@
 
 # Contenido
 #### Este repositorio incluye todos los ejemplos y proyectos utilizados en el curso, organizados por tema y sección. También incluye una carpeta con soluciones detalladas y comentadas a cada ejercicio del curso.
+
+
+
+## Contribuir
+
+Si encuentras un error o tienes alguna sugerencia para mejorar el código, no dudes en abrir una issue o hacer un pull request. También estamos abiertos a cualquier colaboración para mejorar este repositorio.
